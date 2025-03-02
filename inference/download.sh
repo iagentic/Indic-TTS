@@ -25,6 +25,7 @@ FILES=(
     "gs://indic_tts_models/ta.zip"
     "gs://indic_tts_models/te.zip"
     "gs://indic_tts_models/en.zip"
+    "gs://indic_tts_models/en+hi.zip"
 )
 
 # Loop through each file.
