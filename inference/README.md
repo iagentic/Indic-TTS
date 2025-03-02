@@ -1,3 +1,4 @@
+export TORCH_FORCE_NO_WEIGHTS_ONLY_LOAD=1
 # AI4Bharat-TTS Inference
 
 Text-to-Speech models trained by [AI4Bhārat](https://ai4bharat.iitm.ac.in) for 15 major languages spoken in the Indian Republic, supporting both male and female speakers.
