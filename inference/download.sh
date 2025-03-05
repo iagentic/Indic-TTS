@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Define the destination directory for downloads and extraction.
-DEST_DIR="checkpoints"
+DEST_DIR="models"
 
 # Create the directory if it doesn't exist.
 mkdir -p "$DEST_DIR"
